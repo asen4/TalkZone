@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047825971714",
+    "firebase_url": "https://talkzone-b5392-default-rtdb.firebaseio.com",
+    "project_id": "talkzone-b5392",
+    "storage_bucket": "talkzone-b5392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047825971714:android:c14f7e9890631b66e8851b",
+        "android_client_info": {
+          "package_name": "com.anubhav.talkzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047825971714-srsegteorkmq71elsqncbao5ocnv4rcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anubhav.talkzone",
+            "certificate_hash": "716570bdde60d2b05c3a1a084801cfaca3acdc79"
+          }
+        },
+        {
+          "client_id": "1047825971714-86h5pt3fr1vbjd49cngt8sv24foiotpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCShEoLWP8tomZENXpYaiMDmfctCBJYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047825971714-86h5pt3fr1vbjd49cngt8sv24foiotpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
